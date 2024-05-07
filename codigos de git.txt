@@ -1,0 +1,30 @@
+comandos de git
+
+PWD: este comando devuelve una ruta para saber donde estamos trabando.
+
+LS: este comando nos permite saber que carpetas tenemos dentro de donde estamos trabajando 
+y a su vez nos permite movernos entre las mismas. 
+
+CD: nos permite ir eliginedo entre las carpetas que necesitamos acceder. 
+
+CLEAR: nos sirve para borrar el codigo de la consola
+
+MKADIR: sirve para crear una carpeta.
+
+TOUCH (nombre del archivo): se crea un archivo
+
+CODE . : con este codigo abrimos el archivo en VSCODE
+
+LL: con este podemos listar los archivos dentro de cada parpeta que estemos trabajndo con
+mayor cantidad de información
+
+RM: este comando sirve para borrar lo que queremos borrar. (se debe poner le nombre lo q qremos borrar)
+
+RM -R: sirve para poder borrar una carptea (se debe poner el nombre lo q qremos borrar)
+
+CD .. : con este codigo volvemos para atras en las carpetas
+
+CP (archivo) (carpeta): de esta manera estamos copiando archivos dentro de carpetas.
+
+MV (archivo) (carpeta): de esta manera movemos el archivos dentro de una carpeta. 
+
